@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/react-router": "^1.4.6",
     "@tanstack/router": "^0.0.1-beta.108",
+    "@tanstack/router-devtools": "^1.4.6",
+    "@tinymce/tinymce-react": "^4.3.2",
     "axios": "^1.4.0",
+    "firebase": "^10.7.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
